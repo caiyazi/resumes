@@ -81,7 +81,7 @@
     .bg-img li:nth-child(1){
         min-width:100%;
         height: 735px;
-        background: url(../images/cat.jpg)no-repeat;
+        background: url(../images/cat.jpg);
         position: absolute;
         top: -20px;
         opacity: 0.4;
